@@ -69,7 +69,7 @@ In order to run the test, we just have to go into the directory
 
 1.  Checkout to the develop branch
 
-2.  Check out to the directory ../
+2.  Check out to the directory ../BDD-with-cypress-cucumber/cypressCucumber/
 
 3. To open the cypress dashboard, use the command
 
